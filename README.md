@@ -30,6 +30,7 @@ Data merging.
 Data filtration.
 Missing value treatment.
 Data standardization.
+
 <img width="1274" alt="image" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/45074431-0caf-4649-81fe-41c4a06a9ba7">
 <img width="748" alt="Screenshot 2023-10-20 at 3 39 27 PM" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/bc4ed110-2945-4b1d-84ad-d2e7bd595c2b">
 
@@ -41,6 +42,7 @@ Data standardization.
 Analyzed correlations among patient attributes.
 Studied distribution across different offices.
 Tracked time trends.
+
 <img width="664" alt="image" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/9eb30c0a-adca-4c03-b94d-76bbf24b8abc">
 
 
@@ -53,6 +55,7 @@ The age group of 30-40 showed a notably higher M/C rate.
 ### b. Patient Loyalty Analysis:
 
 Defined loyal patients as those visiting every 9 months.
+
 <img width="1238" alt="image" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/7d2c7727-c8c4-41e9-a9bc-d33bd1d8e42f">
 
 Used two formulas for comprehensive analysis:
@@ -74,6 +77,7 @@ Insurance emerged as the dominant responsible party type.
 Defined active patients as those visiting more than once within any 18-month period, while lapse patients visit less frequently.
 Investigated the influence of various patient features on active patient status.
 Mapped distribution across different offices and analyzed visit time distribution.
+
 <img width="649" alt="image" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/a28d3b7d-1932-41fd-82a5-bf277fe37e01">
 <img width="493" alt="image" src="https://github.com/Sarashang1/42-North-Dental--Patient-and-Operational-Data-analysis/assets/115900641/b5dd12a6-b55a-4979-b3a6-03bfe2afb664">
 
